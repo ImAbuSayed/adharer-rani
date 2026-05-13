@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Adharer Rani
+
+This log tracks the cryptographic history and versioning for the song **Adharer Rani** (adharer-rani).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T07:33:04.701645 | `v1` | `0b5efa145b807d7b4b04afaa581588f42dc0eca3d4aedcfcd068db5cdaf3b317` | `403bfe1ee1e3f08cc1cb5a613ab4567bdf0c43ec6e01518b81d3d8fce579b3a8` | `2026-05-13_adharer-rani-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
