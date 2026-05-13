@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/adharer-rani/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Adharer Rani](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/adharer-rani/) |
+| **Get License** | [Get License For Adharer Rani](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/adharer-rani/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1399)
 
 ---
 
